@@ -1,0 +1,6 @@
+#Default Config file for KitsImproved!
+
+
+Join:
+# Having this feature set to "True" will enable the join message for users when they join your server!
+  Join-MOTD: true

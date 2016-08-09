@@ -1,0 +1,7 @@
+name: KitsImproved
+main: me.__Merlin__.KitImproved.Main
+version: 1.0
+commands:
+  kit:
+    description: Main Command in Ze Plugin KitsImproved!
+    
